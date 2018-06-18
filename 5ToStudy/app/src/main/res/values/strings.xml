@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Pe Repede \'Nainte</string>
+    <string name="profile_btn">Profil</string>
+    <string name="search_btn">Caută</string>
+    <string name="subject_et">Materie</string>
+    <string name="testteza_off_tgl">Test</string>
+    <string name="testteza_on_tgl">Teză</string>
+    <string name="grade_et">Clasă</string>
+    <string name="profile_et">Profil</string>
+    <string name="chapter_et">Capitol</string>
+    <string name="login_btn">Autentificare</string>
+    <string name="register_btn">Creează Cont</string>
+    <string name="post_btn">Postează</string>
+    <string name="title_et">Titlu</string>
+    <string name="description_et">Descriere</string>
+    <string name="test_et">Introdu Testul</string>
+    <string name="answer_et">Introdu Răaspunsurile</string>
+    <string name="theory_et">Introdu Teoria</string>
+    <string name="tests_btn">Teste</string>
+    <string name="posted_btn">Postate</string>
+    <string name="saved_btn">Salvate</string>
+    <string name="settings_btn">Setări</string>
+    <string name="username_tv">Nume</string>
+    <string name="new_username_et">Nume Nou</string>
+    <string name="new_password_et">Parolă</string>
+    <string name="check_new_password_et">Verificare Parolă</string>
+    <string name="email_et">E-mail</string>
+    <string name="back_btn">Înapoi</string>
+    <string name="test_btn">Test</string>
+    <string name="answer_btn">Răspunsuri</string>
+    <string name="theory_btn">Teorie</string>
+    <string name="save_btn">Salvează</string>
+    <string name="publisher_tv">Autor</string>
+    <string name="test_tv">Test</string>
+    <string name="answer_tv">Răspunsuri</string>
+    <string name="theory_tv">Teorie</string>
+</resources>
